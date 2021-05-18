@@ -1,4 +1,5 @@
 # AWS Instances Provision using Ansible
+![AWS Instance.](https://raw.githubusercontent.com/Deepak9829/IMAGES/master/ec2.jpg)
 =========
 Using this role we can provision aws instance and then after according to our use case we can Configure these instances.
 
@@ -23,4 +24,5 @@ Author Information
 ------------------
 
 This role is created by the Author Deepak Saini.
+
 Contact ID: [deepaksingodiya2000@gmail.com]
